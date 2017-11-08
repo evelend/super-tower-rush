@@ -1,0 +1,3 @@
+{
+ writeshort(argument0)
+}

@@ -1,0 +1,1 @@
+wd_message_simple(argument0)

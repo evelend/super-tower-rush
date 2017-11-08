@@ -1,0 +1,3 @@
+{
+writebyte(argument0)
+}
